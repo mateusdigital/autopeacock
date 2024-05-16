@@ -1,14 +1,13 @@
 {
   "name": "autopeacock",
   "displayName": "autopeacock",
-  "description": "",
+  "description": "Automatically get a peacock color for a given folder.",
+  "repository": "https://github.com/mateusdigital/autopeacock",
+
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.88.0"
-  },
-  "categories": [
-    "Other"
-  ],
+  "engines": { "vscode": "^1.88.0" },
+  "categories": [ "Other" ],
+
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
